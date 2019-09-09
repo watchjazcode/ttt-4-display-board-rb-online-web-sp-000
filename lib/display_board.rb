@@ -28,3 +28,4 @@ board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
 display_board
 
 end
+

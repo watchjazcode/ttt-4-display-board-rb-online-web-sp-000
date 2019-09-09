@@ -7,8 +7,8 @@ board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 
   puts " #{board[0]} | #{board[1]} | #{board[2]}  "
   puts " #{board[0]} | #{board[1]} | #{board[2]}  "
-  puts(rows[2]).to eq("   |   |   ")
-  puts(rows[3]).to eq("-----------")
+  puts " #{board[0]} | #{board[1]} | #{board[2]}  "
+  puts 
   puts(rows[4]).to eq("   |   |   ")
 
 end

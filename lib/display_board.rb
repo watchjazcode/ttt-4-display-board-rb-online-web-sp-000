@@ -3,7 +3,7 @@
 
 def display_board(board)
 
-
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 
   puts "#{rows[0]}"
   puts(rows[1]).to eq("-----------")

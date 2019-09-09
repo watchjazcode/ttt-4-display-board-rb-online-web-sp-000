@@ -11,8 +11,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   puts " -----------  "
   puts " #{board[6]} | #{board[7]} | #{board[8]}  "
 
-display_board
-
 end
 
 def display_board(board)
@@ -25,8 +23,6 @@ board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
   puts " -----------  "
   puts " #{board[6]} | #{board[7]} | #{board[8]}  "
 
-display_board
-
 end
 
 def display_board(board)
@@ -38,7 +34,5 @@ board = [" O ", " ", " ", " ", " ", " ", " ", " ", " "]
   puts " #{board[3]} | #{board[4]} | #{board[5]}  "
   puts " -----------  "
   puts " #{board[6]} | #{board[7]} | #{board[8]}  "
-
-display_board
 
 end

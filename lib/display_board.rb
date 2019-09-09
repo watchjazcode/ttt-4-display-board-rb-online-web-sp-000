@@ -4,6 +4,7 @@
 def display_board(board)
 
 
+
   puts "#{rows[0]}"
   puts(rows[1]).to eq("-----------")
   puts(rows[2]).to eq("   |   |   ")
